@@ -1,0 +1,9 @@
+# Speech: expectativas, aprendizaje, casos de uso y control investigador
+
+Antes de empezar, me gustaría conocer brevemente vuestro punto de partida. Es posible que algunas personas ya utilicéis ChatGPT, Copilot u otras herramientas para resolver dudas, redactar un texto o resumir un documento. Otras quizá las hayáis probado poco o sintáis cierta cautela. Ambas posiciones son razonables. Esta sesión no presupone conocimientos técnicos ni pretende convenceros de usar la IA para todo. Busca ofrecer criterios para decidir cuándo puede ser útil y cuándo no.
+
+Nos interesa entender la IA no solo como una forma de ahorrar tiempo. Bien utilizada, puede ser una fuente de aprendizaje: puede ayudarnos a formular preguntas, comparar enfoques, aclarar conceptos o encontrar una estructura inicial para abordar un problema. Pero aprender no consiste en aceptar su respuesta. Consiste en dialogar con ella, contrastar lo que propone con nuestro conocimiento y con fuentes fiables, y corregirla cuando sea necesario.
+
+En investigación, puede servir para organizar notas, resumir materiales que ya conocemos, preparar el esquema de un documento, generar preguntas para explorar un tema o ayudarnos a interpretar datos y resultados. También puede proponer borradores. Sin embargo, no sustituye la lectura de las fuentes, la validación metodológica ni la revisión de datos. Una respuesta bien escrita no es necesariamente una respuesta correcta.
+
+La idea central de hoy es sencilla: la IA es una subordinada del investigador, no al contrario. La persona investigadora decide el objetivo, aporta el contexto, define los criterios de calidad y revisa el resultado. La herramienta puede ejecutar una parte del trabajo, pero no asume la responsabilidad científica, ética ni institucional. Si mantenemos ese control, la IA puede convertirse en una colaboradora útil para pensar y trabajar mejor.
